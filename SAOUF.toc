@@ -1,0 +1,29 @@
+## Interface 112000
+## Title: SAO Unit Frames
+## Notes: Unit Frames inspired by SAO 2.
+## Author: Shozokui
+## Dependencies:
+## SavedVariables: SAODB
+## OptionalDeps: Ace2
+## X-Category: UnitFrame
+
+# Third Party Libraries
+Libraries\AceLibrary\AceLibrary.lua
+Libraries\AceOO-2.0\AceOO-2.0.lua
+Libraries\AceDebug-2.0\AceDebug-2.0.lua
+Libraries\AceAddon-2.0\AceAddon-2.0.lua
+Libraries\AceConsole-2.0\AceConsole-2.0.lua
+Libraries\AceHook-2.1\AceHook-2.1.lua
+Libraries\AceDB-2.0\AceDB-2.0.lua
+Libraries\AceEvent-2.0\AceEvent-2.0.lua
+Libraries\AceLocale-2.2\AceLocale-2.2.lua
+
+# Global/Top Level
+SAO_Globals.lua
+
+# Modules
+Modules\Unit.lua
+Modules\UnitFrame.lua
+
+# Main File
+SAOUF.lua
